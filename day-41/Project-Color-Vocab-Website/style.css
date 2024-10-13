@@ -1,0 +1,28 @@
+#red{
+    color: red;
+}
+
+#skyblue{
+    color: skyblue;
+}
+
+#orange{
+    color: orange;
+
+}
+
+#green{
+    color: green;
+}
+
+#yellow{
+    color: yellow;
+}
+
+h3{
+    font-weight: normal;
+}
+.img-size{
+    width: 200px;
+    height: 200px;
+}
