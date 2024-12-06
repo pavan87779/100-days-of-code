@@ -1,0 +1,25 @@
+Here’s a LinkedIn update for Day 69:
+
+
+---
+
+🌟 Day 69 of #100DaysOfCode 🌟
+
+Today’s focus: Advanced Deployment of a Web Application 🚀
+
+🖥 Deployed my website for the first time!
+📂 Added a .gitignore file to manage ignored files
+🔗 Used Git to add version control to the project
+🔐 Implemented environment variables for storing sensitive data
+⚙ Learned about Gunicorn for running Python web apps
+🌐 Signed up with a hosting provider and created a web service
+📊 Upgraded the database from SQLite to PostgreSQL for better performance
+
+Deployment feels like a huge milestone! Excited for what’s next.
+
+#Deployment #PostgreSQL #WebDevelopment #Git #Gunicorn #100DaysOfCode #SoftwareEngineering #LearningJourney
+
+
+---
+
+Let me know if you’d like any changes!
