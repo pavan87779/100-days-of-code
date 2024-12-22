@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Register</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <h1>Register</h1>
+    <form method="POST">
+        {{ form.hidden_tag() }}
+        <div>
+            <label for="email">Email</label>
+            {{ form.email() }}
+        </div>
+        <div>
+            <label for="username">Username</label>
+            {{ form.username() }}
+        </div>
+        <div>
+            <label for="password">Password</label>
+            {{ form.password() }}
+        </div>
+        <div>
+            <button type="submit">Register</button>
+        </div>
+    </form>
+    <a href="{{ url_for('login') }}">Login</a>
+</body>
+</html>
